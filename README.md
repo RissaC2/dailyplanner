@@ -12,6 +12,8 @@ https://stackoverflow.com/
 ##Screenshot
 Daily planner
 
+![Screenshot 2023-03-14 202920](https://user-images.githubusercontent.com/105446766/225131804-8c504a61-6299-4068-844e-de68d3353009.png)
+
 ##Website links
 Deployed link
 https://rissac2.github.io/dailyplanner/
