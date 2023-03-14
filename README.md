@@ -1,21 +1,21 @@
 # dailyplanner
 Creating a daily planning app.
 
-Description
+##Description
 I have created a daily planner for users to input diary entries. 
 
-Credits
+##Credits
 https://www.w3schools.com/default.asp
 
 https://stackoverflow.com/
 
-Screenshot
+##Screenshot
 coding quiz image
 
-Website links
+##Website links
 
 
-License
+##License
 MIT License
 
 Copyright (c) [2023] [Clarissa Cole]
