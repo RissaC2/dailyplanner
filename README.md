@@ -10,10 +10,13 @@ https://www.w3schools.com/default.asp
 https://stackoverflow.com/
 
 ##Screenshot
-Daily planner image
+coding quiz image
 
 ##Website links
-
+Deployed link
+https://rissac2.github.io/dailyplanner/
+github link
+https://github.com/RissaC2/dailyplanner
 
 ##License
 MIT License
