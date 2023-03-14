@@ -16,7 +16,7 @@ Daily planner image.
 
 
 ##Website links
-
+https://rissac2.github.io/dailyplanner/
 
 ##License
 MIT License
