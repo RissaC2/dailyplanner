@@ -69,15 +69,15 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
-
-.past {
-  background-color: #d9d9d9;
+ 
+.past .description {
+  background-color: #d3d3d3;
 }
 
-.present {
+.present .description {
   background-color: #ff6961;
 }
 
-.future {
+.future .description {
   background-color: #77dd77;
 }
