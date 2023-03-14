@@ -16,7 +16,9 @@ Daily planner image.
 
 
 ##Website links
+#Deployed link
 https://rissac2.github.io/dailyplanner/
+#github link
 https://github.com/RissaC2/dailyplanner
 
 ##License
