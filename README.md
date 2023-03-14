@@ -10,7 +10,7 @@ https://www.w3schools.com/default.asp
 https://stackoverflow.com/
 
 ##Screenshot
-coding quiz image
+Daily planner image
 
 ##Website links
 
